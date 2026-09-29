@@ -10,7 +10,7 @@ export default function Footer() {
       <div style={{ marginBottom: 4 }}>
         <span style={{ color: '#7F77DD', fontWeight: 500 }}>AttritionIQ</span> — HR Employee Attrition Prediction
       </div>
-      <div>Built with TensorFlow · Keras · SMOTE · React · Recharts &nbsp;|&nbsp; College Project</div>
+      <div>Built with TensorFlow · Keras · SMOTE · React · Recharts &nbsp;|&nbsp; </div>
     </footer>
   );
 }

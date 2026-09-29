@@ -37,7 +37,7 @@ export default function Navbar({ scrollTo }) {
           fontSize: 10, padding: '2px 8px', borderRadius: 10,
           background: 'rgba(83,74,183,0.25)', color: '#9D97E8',
           border: '1px solid rgba(83,74,183,0.4)', marginLeft: 4
-        }}>College Project</span>
+        }}></span>
       </div>
 
       <div style={{ display: 'flex', gap: 8 }}>
